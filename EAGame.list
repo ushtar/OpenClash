@@ -1,3 +1,6 @@
+#战地2042
+IP-CIDR,13.53.62.0/24,no-resolve
+
 IP-CIDR,3.112.0.0/16,no-resolve
 IP-CIDR,3.120.0.0/16,no-resolve
 IP-CIDR,5.101.165.0/24,no-resolve
@@ -60,7 +63,6 @@ IP-CIDR,23.10.13.69/32,no-resolve
 IP-CIDR,23.20.0.0/16,no-resolve
 IP-CIDR,24.26.14.0/24,no-resolve
 IP-CIDR,24.200.135.0/24,no-resolve
-IP-CIDR,27.0.0.0/4,no-resolve
 IP-CIDR,31.13.95.0/24,no-resolve
 IP-CIDR,31.186.250.0/24,no-resolve
 IP-CIDR,31.204.131.0/24,no-resolve
