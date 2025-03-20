@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,gamebanana.com
 DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,estk.me
+IP-CIDR,142.251.215.238/32,no-resolve
