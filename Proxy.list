@@ -13,3 +13,7 @@ DOMAIN-SUFFIX,estk.me
 DOMAIN-SUFFIX,faconhost.com
 IP-CIDR,142.251.215.238/32,no-resolve
 IP-CIDR,142.250.107.188/32,no-resolve
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,surfshark.com
