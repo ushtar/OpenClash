@@ -13,11 +13,8 @@ DOMAIN-SUFFIX,estk.me
 DOMAIN-SUFFIX,faconhost.com
 IP-CIDR,142.251.215.238/32,no-resolve
 IP-CIDR,142.250.107.188/32,no-resolve
-DOMAIN-SUFFIX,dnsleaktest.com
-DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,experte.com
-DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,111666.best
 DOMAIN-SUFFIX,v2rayssr.com
@@ -30,3 +27,4 @@ DOMAIN-SUFFIX,mij.rip
 DOMAIN-SUFFIX,packages.synocommunity.com
 DOMAIN-SUFFIX,now.cc
 DOMAIN-SUFFIX,cdn.netsarang.net
+
