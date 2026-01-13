@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,111666.best
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,lala.gg
 DOMAIN-SUFFIX,claw.cloud
+DOMAIN-SUFFIX,*.claw.cloud
 DOMAIN-SUFFIX,vpsxb.net
 DOMAIN-SUFFIX,skinny.co.nz
 DOMAIN-SUFFIX,makecache.com
@@ -27,3 +28,4 @@ DOMAIN-SUFFIX,now.cc
 DOMAIN-SUFFIX,cdn.netsarang.net
 DOMAIN-SUFFIX,648000.xyz
 DOMAIN-SUFFIX,playwright.dev
+
