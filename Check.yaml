@@ -9,8 +9,8 @@ payload:
   - 
   - DOMAIN,speed.cloudflare.com
   - DOMAIN-SUFFIX,fast.com
-  - # DOMAIN,ichnaea-web.netflix.com
-  - # DOMAIN-SUFFIX,1.oca.nflxvideo.net
+# - DOMAIN,ichnaea-web.netflix.com
+#-  DOMAIN-SUFFIX,1.oca.nflxvideo.net
   - DOMAIN-SUFFIX,speedcheck.org
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,speedtest.cn
