@@ -99,7 +99,7 @@ geo-update-interval: 24
 proxy-providers:
   airport:
     type: http
-    url: "http://10.10.10.7:3001/CKg2abstVnOeRpm1aB4G/download/32?target=ClashMeta"
+    url: "* "
     proxy: DIRECT
     path: ./proxy_provider/airport.yaml
     interval: 86400
